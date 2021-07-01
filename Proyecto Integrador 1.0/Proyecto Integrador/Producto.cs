@@ -9,6 +9,7 @@ namespace Proyecto_Integrador
         public string Nombre { get; set; }
         public double ValorNutricional { get; set; }
         public float Precio { get; set; }
+        public float Precios { get; set; }
         public DateTime IngresoProducto { get; set; }
 
 
