@@ -8,26 +8,27 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\PC\\.nuget\\packages\\": {}
+    "C:\\Users\\flore\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\Proyecto Integrador 1.0\\Proyecto Integrador\\Proyecto Integrador.csproj",
+      "projectUniqueName": "C:\\Users\\flore\\Documents\\GitHub\\Proyecto_Programacion\\Proyecto Integrador 1.0\\Proyecto Integrador\\Proyecto Integrador.csproj",
       "projectName": "Proyecto Integrador",
-      "projectPath": "C:\\Users\\PC\\source\\repos\\Proyecto Integrador 1.0\\Proyecto Integrador\\Proyecto Integrador.csproj",
-      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\source\\repos\\Proyecto Integrador 1.0\\Proyecto Integrador\\obj\\",
+      "projectPath": "C:\\Users\\flore\\Documents\\GitHub\\Proyecto_Programacion\\Proyecto Integrador 1.0\\Proyecto Integrador\\Proyecto Integrador.csproj",
+      "packagesPath": "C:\\Users\\flore\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\flore\\Documents\\GitHub\\Proyecto_Programacion\\Proyecto Integrador 1.0\\Proyecto Integrador\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\flore\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
