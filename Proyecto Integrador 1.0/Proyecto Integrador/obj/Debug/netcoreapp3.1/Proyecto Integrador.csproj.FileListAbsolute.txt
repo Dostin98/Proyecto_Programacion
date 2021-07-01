@@ -1,0 +1,13 @@
+C:\Users\flore\Documents\GitHub\Proyecto_Programacion\Proyecto Integrador 1.0\Proyecto Integrador\obj\Debug\netcoreapp3.1\Proyecto Integrador.csproj.AssemblyReference.cache
+C:\Users\flore\Documents\GitHub\Proyecto_Programacion\Proyecto Integrador 1.0\Proyecto Integrador\obj\Debug\netcoreapp3.1\Proyecto Integrador.AssemblyInfoInputs.cache
+C:\Users\flore\Documents\GitHub\Proyecto_Programacion\Proyecto Integrador 1.0\Proyecto Integrador\obj\Debug\netcoreapp3.1\Proyecto Integrador.AssemblyInfo.cs
+C:\Users\flore\Documents\GitHub\Proyecto_Programacion\Proyecto Integrador 1.0\Proyecto Integrador\obj\Debug\netcoreapp3.1\Proyecto Integrador.csproj.CoreCompileInputs.cache
+C:\Users\flore\Documents\GitHub\Proyecto_Programacion\Proyecto Integrador 1.0\Proyecto Integrador\bin\Debug\netcoreapp3.1\Proyecto Integrador.exe
+C:\Users\flore\Documents\GitHub\Proyecto_Programacion\Proyecto Integrador 1.0\Proyecto Integrador\bin\Debug\netcoreapp3.1\Proyecto Integrador.deps.json
+C:\Users\flore\Documents\GitHub\Proyecto_Programacion\Proyecto Integrador 1.0\Proyecto Integrador\bin\Debug\netcoreapp3.1\Proyecto Integrador.runtimeconfig.json
+C:\Users\flore\Documents\GitHub\Proyecto_Programacion\Proyecto Integrador 1.0\Proyecto Integrador\bin\Debug\netcoreapp3.1\Proyecto Integrador.runtimeconfig.dev.json
+C:\Users\flore\Documents\GitHub\Proyecto_Programacion\Proyecto Integrador 1.0\Proyecto Integrador\bin\Debug\netcoreapp3.1\Proyecto Integrador.dll
+C:\Users\flore\Documents\GitHub\Proyecto_Programacion\Proyecto Integrador 1.0\Proyecto Integrador\bin\Debug\netcoreapp3.1\Proyecto Integrador.pdb
+C:\Users\flore\Documents\GitHub\Proyecto_Programacion\Proyecto Integrador 1.0\Proyecto Integrador\obj\Debug\netcoreapp3.1\Proyecto Integrador.dll
+C:\Users\flore\Documents\GitHub\Proyecto_Programacion\Proyecto Integrador 1.0\Proyecto Integrador\obj\Debug\netcoreapp3.1\Proyecto Integrador.pdb
+C:\Users\flore\Documents\GitHub\Proyecto_Programacion\Proyecto Integrador 1.0\Proyecto Integrador\obj\Debug\netcoreapp3.1\Proyecto Integrador.genruntimeconfig.cache

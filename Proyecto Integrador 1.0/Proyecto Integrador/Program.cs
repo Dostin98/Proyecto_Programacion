@@ -12,6 +12,7 @@ namespace Proyecto_Integrador
                 Nombre = "Doritos"
             };
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
         }
 
     }
